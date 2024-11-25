@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact : I think i'm funny
 
-  <style> black {background-color:#87CEEB} </style>
+
 <p><img align="right" src="68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7a356943766f316f4362717437756b4d51732f67697068792e676966.gif"alt="imgwork"/></p>
 <br><br><br><br><br>
 <h3 align="left">Connect with me:</h3>
