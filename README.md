@@ -2,6 +2,7 @@
 <h3 align="center">I'm student at La plateforme 👨‍💻</h3>
 <br><br><br><br>
 
+
 - 🌱 I’m currently learning **HTML/CSS/CONFIG/VIRTUALISATION**
 
 - 📫 How to reach me **jean-francois.andriatsimeva@laplateforme.io**
@@ -9,7 +10,8 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1wWfRRPaqITzyqWYb2INO0LyrFBuDGg99/view?usp=drive_link](https://drive.google.com/file/d/1wWfRRPaqITzyqWYb2INO0LyrFBuDGg99/view?usp=drive_link)
 
 - ⚡ Fun fact : I think i'm funny
-  
+
+  <style> black {background-color:#87CEEB} </style>
 <p><img align="right" src="68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7a356943766f316f4362717437756b4d51732f67697068792e676966.gif"alt="imgwork"/></p>
 <br><br><br><br><br>
 <h3 align="left">Connect with me:</h3>
