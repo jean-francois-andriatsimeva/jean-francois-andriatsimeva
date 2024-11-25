@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jean-francois Andriatsimeva</h1>
 <h3 align="center">I'm student at La plateforme 👨‍💻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jean-francois-andriatsimeva&label=Profile%20views&color=0e75b6&style=flat" alt="jean-francois-andriatsimeva" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jean-francois-andriatsimeva" alt="jean-francois-andriatsimeva" /></a> </p>
-
 - 🌱 I’m currently learning **HTML/CSS/CONFIG/VIRTUALISATION**
 
 - 📫 How to reach me **jean-francois.andriatsimeva@laplateforme.io**
