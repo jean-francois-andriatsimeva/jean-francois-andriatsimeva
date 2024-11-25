@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jean-francois Andriatsimeva</h1>
 <h3 align="center">I'm student at La plateforme 👨‍💻</h3>
 <br><br><br><br>
-<br>
+
 - 🌱 I’m currently learning **HTML/CSS/CONFIG/VIRTUALISATION**
 
 - 📫 How to reach me **jean-francois.andriatsimeva@laplateforme.io**
