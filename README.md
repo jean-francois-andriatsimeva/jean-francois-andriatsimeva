@@ -22,9 +22,10 @@
 <br>
 
 <br><br><br><br><br><br><br><br><br>
+<p><img align="right" src="giphy-1.gif"alt="imgstats"/></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jean-francois-andriatsimeva&show_icons=true&locale=en&layout=compact" alt="jean-francois-andriatsimeva" /></p>
 <br>
-<p><img align="right" src="giphy-1.gif"alt="imgstats"/></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jean-francois-andriatsimeva&show_icons=true&locale=en" alt="jean-francois-andriatsimeva" /></p>
 <br><br><br><br>
 <h3 align="left">Support:</h3>
